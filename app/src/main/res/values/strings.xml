@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework6</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login">Login</string>
+    <string name="new_user">New User</string>
+    <string name="already_exists">That username already exists, please pick a different one</string>
+    <string name="does_not_exist">That user does not exist</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_flag">Add Flag</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">OK</string>
+    <string name="title">Title</string>
+    <string name="snippet">About</string>
+    <string name="blank_username">You can\'t pick that username for some reason</string>
+    <string name="log_off">Log off</string>
+</resources>
